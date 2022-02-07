@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-junit</artifactId>
+            <artifactId>cucumber-junit</artifactId>git branch -M main
             <version>7.2.2</version>
             <scope>test</scope>
         </dependency>
